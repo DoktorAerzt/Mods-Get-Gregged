@@ -215,6 +215,9 @@ Assembler.addRecipe(<gregtech:gt.blockmachines:24>, <IC2:blockElectric:6>, <greg
 //Wrought Iron Ingot
 Compressor.addRecipe(<gregtech:gt.metaitem.01:11304>, <gregtech:gt.metaitem.01:9304> * 9);
 
+//Nether Quartz Plate
+Compressor.addRecipe(<gregtech:gt.metaitem.01:17522>, <gregtech:gt.metaitem.01:2522>);
+
 
 //Wiremill Recipes
 
